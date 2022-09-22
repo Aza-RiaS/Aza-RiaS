@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Azarias-arch
+- 👋 Hi, I’m @Aza-RiaS
 - 👀 I’m interested in game development and python automation
 - 🌱 I’m currently learning python and C++
 - 💞️ I’m looking to collaborate on ...
